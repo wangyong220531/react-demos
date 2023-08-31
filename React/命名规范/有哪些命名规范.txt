@@ -1,0 +1,1 @@
+（1）在创建自定义组件时，通常使用onSomething代表事件的props，使用handleSomething命名处理这些事件的函数
