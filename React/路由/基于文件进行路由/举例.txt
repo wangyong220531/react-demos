@@ -1,0 +1,15 @@
+src/
+  pages/
+    Home/
+      index.tsx
+    About/
+      index.tsx
+    Products/
+      index.tsx
+      ProductDetail/
+        index.tsx
+
+（1）"/"对应src/pages/Home/index.tsx，即首页
+（2）"/about"对应src/pages/About/index.tsx，即关于页
+（3）"/products"对应src/pages/Products/index.tsx，即产品页
+（4）"/products/:id"对应src/pages/Products/ProductDetail/index.tsx，即产品详情页
